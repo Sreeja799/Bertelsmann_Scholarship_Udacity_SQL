@@ -10,9 +10,13 @@
 # SQL Aggregations
 ## Aggregation
 1. Find the total amount of poster_qty paper ordered in the orders table.
+ 
 2. Find the total amount of standard_qty paper ordered in the orders table.
+ 
 3. Find the total dollar amount of sales using the total_amt_usd in the orders table.
+ 
 4. Find the total amount spent on standard_amt_usd and gloss_amt_usd paper for each order in the orders table. This should give a dollar amount for each order in the table.
+ 
 5. Find the standard_amt_usd per unit of standard_qty paper. Your solution should use both aggregation and a mathematical operator.
 
 
@@ -56,27 +60,41 @@
 
 ## DISTINCT
 1. Use DISTINCT to test if there are any accounts associated with more than one region.
+
 2. Have any sales reps worked on more than one account?
 
 
 ## HAVING
 1. How many of the sales reps have more than 5 accounts that they manage?
+
 2. How many accounts have more than 20 orders?
+ 
 3. Which account has the most orders?
+ 
 4. Which accounts spent more than 30,000 usd total across all orders?
+ 
 5. Which accounts spent less than 1,000 usd total across all orders?
+ 
 6. Which account has spent the most with us?
+ 
 7. Which account has spent the least with us?
+ 
 8. Which accounts used facebook as a channel to contact customers more than 6 times?
+
 9. Which account used facebook most as a channel?
+ 
 10. Which channel was most frequently used by most accounts?
  
  
 ## Working With DATEs
 1. Find the sales in terms of total dollars for all orders in each year, ordered from greatest to least. Do you notice any trends in the yearly sales totals?
+
 2. Which month did Parch & Posey have the greatest sales in terms of total dollars? Are all months evenly represented by the dataset?
+
 3. Which year did Parch & Posey have the greatest sales in terms of the total number of orders? Are all years evenly represented by the dataset?
+
 4. Which month did Parch & Posey have the greatest sales in terms of the total number of orders? Are all months evenly represented by the dataset?
+
 5. In which month of which year did Walmart spend the most on gloss paper in terms of dollars?
 
 
