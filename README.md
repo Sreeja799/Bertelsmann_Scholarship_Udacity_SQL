@@ -1,15 +1,15 @@
 # Bertelsmann Scholarship by Udacity - SQL
-My quiz solutions to all the SQL questions asked as a part of Bertelsmann Challenge Phase. Cn be found in file named by each topic. 
-E.g., "case" for all the questions asked for case statements
+My solutions to all the SQL questions topic wise asked as a part of Bertelsmann Challenge Phase. Can be found in file named by each topic. 
+E.g., "case" for all the questions asked for case statements.
 
-## Questions: Working With DATEs
+## Working With DATEs
 1. Find the sales in terms of total dollars for all orders in each year, ordered from greatest to least. Do you notice any trends in the yearly sales totals?
 2. Which month did Parch & Posey have the greatest sales in terms of total dollars? Are all months evenly represented by the dataset?
 3. Which year did Parch & Posey have the greatest sales in terms of the total number of orders? Are all years evenly represented by the dataset?
 4. Which month did Parch & Posey have the greatest sales in terms of the total number of orders? Are all months evenly represented by the dataset?
 5. In which month of which year did Walmart spend the most on gloss paper in terms of dollars?
 
-## Questions: CASE
+## CASE
 1. Write a query to display for each order, the account ID, the total amount of the order, and the level of the order - ‘Large’ or ’Small’ - depending on if the order is $3000 or more, or smaller than $3000.
 
 2. Write a query to display the number of orders in each of three categories, based on the total number of items in each order. The three categories are: 'At Least 2000', 'Between 1000 and 2000' and 'Less than 1000'.
