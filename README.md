@@ -1,4 +1,4 @@
-# Bertelsmann Scholarship Udacity - SQL
+# Bertelsmann Scholarship by Udacity - SQL
 My quiz solutions to all the SQL questions asked as a part of Bertelsmann Challenge Phase. Cn be found in file named by each topic. 
 E.g., "case" for all the questions asked for case statements
 
