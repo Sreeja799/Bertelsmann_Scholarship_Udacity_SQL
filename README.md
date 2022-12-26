@@ -5,6 +5,9 @@
 > 
 > E.g., "case" for all the questions asked for case statements.
 
+![image](https://user-images.githubusercontent.com/73770166/209531321-bd6940f1-9e67-4b42-9428-6c5ab7113f0c.png)
+
+
 
 
 # SQL Aggregations
