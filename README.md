@@ -2,7 +2,7 @@
 My quiz solutions to all the SQL questions asked as a part of Bertelsmann Challenge Phase
 
 
-##Questions: CASE
+## Questions: CASE
 Use the SQL environment below to assist with answering the following questions. Whether you get stuck or you just want to double-check your solutions, my answers can be found at the top of the next concept.
 
 Write a query to display for each order, the account ID, the total amount of the order, and the level of the order - ‘Large’ or ’Small’ - depending on if the order is $3000 or more, or smaller than $3000.
