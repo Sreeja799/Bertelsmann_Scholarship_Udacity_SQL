@@ -2,6 +2,12 @@
 My quiz solutions to all the SQL questions asked as a part of Bertelsmann Challenge Phase. Cn be found in file named by each topic. 
 E.g., "case" for all the questions asked for case statements
 
+## Questions: Working With DATEs
+1. Find the sales in terms of total dollars for all orders in each year, ordered from greatest to least. Do you notice any trends in the yearly sales totals?
+2. Which month did Parch & Posey have the greatest sales in terms of total dollars? Are all months evenly represented by the dataset?
+3. Which year did Parch & Posey have the greatest sales in terms of the total number of orders? Are all years evenly represented by the dataset?
+4. Which month did Parch & Posey have the greatest sales in terms of the total number of orders? Are all months evenly represented by the dataset?
+5. In which month of which year did Walmart spend the most on gloss paper in terms of dollars?
 
 ## Questions: CASE
 1. Write a query to display for each order, the account ID, the total amount of the order, and the level of the order - ‘Large’ or ’Small’ - depending on if the order is $3000 or more, or smaller than $3000.
