@@ -1,6 +1,8 @@
 # Bertelsmann Scholarship by Udacity - SQL
 > My solutions to all the SQL questions topic wise asked as a part of Bertelsmann Challenge Phase. 
+> 
 > Can be found in file named by each topic. 
+> 
 > E.g., "case" for all the questions asked for case statements.
 
 
