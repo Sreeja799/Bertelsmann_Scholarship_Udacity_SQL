@@ -3,7 +3,7 @@
 > 
 > Can be found in file named by each topic. 
 > 
-> E.g., "case" for all the questions asked for case statements.
+> E.g., "Basic_SQL" for all the questions asked on Basic SQL statements.
 
 The database used is a fictional company named - Parch & Posey and entity-relationship diagram of it is as follows: 
 ![image](https://user-images.githubusercontent.com/73770166/209531321-bd6940f1-9e67-4b42-9428-6c5ab7113f0c.png)
@@ -78,7 +78,7 @@ The database used is a fictional company named - Parch & Posey and entity-relati
 
 
 # SQL Aggregations
-## Aggregation
+### Aggregation
 1. Find the total amount of poster_qty paper ordered in the orders table.
  
 2. Find the total amount of standard_qty paper ordered in the orders table.
@@ -90,7 +90,7 @@ The database used is a fictional company named - Parch & Posey and entity-relati
 5. Find the standard_amt_usd per unit of standard_qty paper. Your solution should use both aggregation and a mathematical operator.
 
 
-## MIN, MAX, & AVERAGE
+### MIN, MAX, & AVERAGE
 6. When was the earliest order ever placed? You only need to return the date.
 
 7. Try performing the same query as in question 1 without using an aggregation function.
@@ -104,7 +104,7 @@ The database used is a fictional company named - Parch & Posey and entity-relati
 11. Via the video, you might be interested in how to calculate the MEDIAN. Though this is more advanced than what we have covered so far try finding - what is the MEDIAN total_usd spent on all orders?
 
 
-## GROUP BY
+### GROUP BY
 12. Which account (by name) placed the earliest order? Your solution should have the account name and the date of the order.
 
 13. Find the total sales in usd for each account. You should include two columns - the total sales for each company's orders in usd and the company name.
@@ -128,13 +128,13 @@ The database used is a fictional company named - Parch & Posey and entity-relati
 22. Determine the number of times a particular channel was used in the web_events table for each region. Your final table should have three columns - the region name, the channel, and the number of occurrences. Order your table with the highest number of occurrences first.
 
 
-## DISTINCT
+### DISTINCT
 23. Use DISTINCT to test if there are any accounts associated with more than one region.
 
 24. Have any sales reps worked on more than one account?
 
 
-## HAVING
+### HAVING
 25. How many of the sales reps have more than 5 accounts that they manage?
 
 26. How many accounts have more than 20 orders?
