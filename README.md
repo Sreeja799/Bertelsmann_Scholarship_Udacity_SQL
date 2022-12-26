@@ -5,7 +5,7 @@
 > 
 > E.g., "case" for all the questions asked for case statements.
 
-The database used is a fictinal company named - Parch & Posey and entity-relationship diagram of it is as follows: 
+The database used is a fictional company named - Parch & Posey and entity-relationship diagram of it is as follows: 
 ![image](https://user-images.githubusercontent.com/73770166/209531321-bd6940f1-9e67-4b42-9428-6c5ab7113f0c.png)
 
 # Basic SQL
