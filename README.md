@@ -1,4 +1,4 @@
-# Bertelsmann Scholarship by Udacity - SQL
+# Bertelsmann Scholarship by Udacity - SQL Practice Questions
 > My solutions to all the SQL questions topic wise asked as a part of Bertelsmann Challenge Phase. 
 > 
 > Can be found in file named by each topic. 
